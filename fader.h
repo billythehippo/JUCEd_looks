@@ -1,3 +1,6 @@
+#pragma once
+#include <JuceHeader.h>
+
 class CustomFader : public juce::LookAndFeel_V4
 {
 public:
