@@ -1,3 +1,6 @@
+#pragma once
+#include <JuceHeader.h>
+
 class CustomButton : public juce::LookAndFeel_V4
 {
 public:
